@@ -1,4 +1,4 @@
-# cyberpatriots
+# Welcome TSS students
 
 There can't be much said apart from the fact that this is the TSS cyberpatriots Ubuntu script written by Max.
 
